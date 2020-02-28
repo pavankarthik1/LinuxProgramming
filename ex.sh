@@ -1,0 +1,1 @@
+top -bn 5 | grep "pavan.sh" >>out.txt
